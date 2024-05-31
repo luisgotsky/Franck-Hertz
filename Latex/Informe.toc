@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Fundamento teórico}{2}{section.1}%
+\contentsline {section}{\numberline {2}Desarrollo experimental}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Dispositivo para el mercurio}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Dispositivo para el neón}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Análisis de los datos}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Energía de excitación del mercurio}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Energía de excitación del neón}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Recorrido libre medio}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Discusión de resultados}{10}{section.4}%
+\contentsline {section}{\numberline {5}Conclusiones}{10}{section.5}%
+\contentsline {section}{\numberline {6}Anexo 1: fórmulas de error}{11}{section.6}%
+\contentsline {section}{\numberline {7}Anexo 2: el código}{11}{section.7}%
+\contentsline {section}{\numberline {8}Anexo 3: datos descartados}{11}{section.8}%

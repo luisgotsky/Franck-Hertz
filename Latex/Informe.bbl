@@ -1,0 +1,163 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{thermoIonic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=eaedc7a3555037a8580b4a35df2f8f57}{%
+           family={Becquere},
+           familyi={B\bibinitperiod}}}%
+        {{hash=4ed2aa06f55a20cb220f99abc5f8eb6f}{%
+           family={Edmond},
+           familyi={E\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \strng{fullhash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \strng{bibnamehash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \strng{authorbibnamehash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \strng{authornamehash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \strng{authorfullhash}{0fa6c61b6b5b258f58bca892484a10e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science}
+      \field{number}{41}
+      \field{title}{Researches on the electrical conductibility of gases at high temperatures}
+      \field{volume}{6}
+      \field{year}{1853}
+      \field{pages}{456\bibrangedash 457}
+      \range{pages}{2}
+    \endentry
+    \entry{Rubenza}{article}{}
+      \name{author}{2}{}{%
+        {{hash=97a5375123436ff901439185bbc18f99}{%
+           family={Rubenzahl},
+           familyi={R\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=883ca506b36387ef49f12b3a0d8dbacf}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{006f0f635f376ef36b2b2601ff155013}
+      \strng{fullhash}{006f0f635f376ef36b2b2601ff155013}
+      \strng{bibnamehash}{006f0f635f376ef36b2b2601ff155013}
+      \strng{authorbibnamehash}{006f0f635f376ef36b2b2601ff155013}
+      \strng{authornamehash}{006f0f635f376ef36b2b2601ff155013}
+      \strng{authorfullhash}{006f0f635f376ef36b2b2601ff155013}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Franck-Hertz Experiment}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.pas.rochester.edu/~rrubenza/projects/RAR_PHY243W_Lab2_FranckHertz.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.pas.rochester.edu/~rrubenza/projects/RAR_PHY243W_Lab2_FranckHertz.pdf
+      \endverb
+    \endentry
+    \entry{Neon}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5cb3fc6ece02c835996f91b5cc15fb1b}{%
+           family={Saloman},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8bd33b82a93be2bbcef8c906f0d50b39}{%
+           family={Sansonetti},
+           familyi={S\bibinitperiod},
+           given={Craig\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics for the National Institute of Standards and~…}%
+      }
+      \strng{namehash}{202d78bee32bce4182a06f9b5e501155}
+      \strng{fullhash}{202d78bee32bce4182a06f9b5e501155}
+      \strng{bibnamehash}{202d78bee32bce4182a06f9b5e501155}
+      \strng{authorbibnamehash}{202d78bee32bce4182a06f9b5e501155}
+      \strng{authornamehash}{202d78bee32bce4182a06f9b5e501155}
+      \strng{authorfullhash}{202d78bee32bce4182a06f9b5e501155}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physical and Chemical Reference Data}
+      \field{number}{4}
+      \field{title}{Wavelengths, energy level classifications, and energy levels for the spectrum of neutral neon}
+      \field{volume}{33}
+      \field{year}{2004}
+      \field{pages}{1113\bibrangedash 1158}
+      \range{pages}{46}
+    \endentry
+    \entry{UnivBonn}{report}{}
+      \name{author}{2}{}{%
+        {{hash=e7fce4c726c9ace890051815592db27e}{%
+           family={Stillings},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e2767b6ff3587db2188ab0f9f502827d}{%
+           family={Valerius},
+           familyi={V\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Bonn}%
+      }
+      \strng{namehash}{a30e55780c13fa3ae124ad61c745c766}
+      \strng{fullhash}{a30e55780c13fa3ae124ad61c745c766}
+      \strng{bibnamehash}{a30e55780c13fa3ae124ad61c745c766}
+      \strng{authorbibnamehash}{a30e55780c13fa3ae124ad61c745c766}
+      \strng{authornamehash}{a30e55780c13fa3ae124ad61c745c766}
+      \strng{authorfullhash}{a30e55780c13fa3ae124ad61c745c766}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E-103: Franck-Hertz Experiment}
+      \field{type}{Lab report}
+      \field{urlday}{29}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://stilli.de/physics/E103.pdf
+      \endverb
+      \verb{url}
+      \verb http://stilli.de/physics/E103.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
